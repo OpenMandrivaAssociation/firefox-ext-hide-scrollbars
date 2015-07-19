@@ -1,7 +1,7 @@
 Summary:	Firefox extension for hiding scrollbars
 Name:		firefox-ext-hide-scrollbars
 Version:	0.2
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Networking/WWW
 Url:		https://addons.mozilla.org/en-US/firefox/addon/hidescrollbars
